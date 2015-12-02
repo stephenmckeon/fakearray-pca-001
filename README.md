@@ -29,3 +29,5 @@ ingredients.each {|i| puts i }
 ```
 
 
+
+<a href='https://learn.co/lessons/fakearray' data-visibility='hidden'>View this lesson on Learn.co</a>
