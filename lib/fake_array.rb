@@ -1,5 +1,3 @@
-  # you'll need a splat in this class somewhere
-require "pry"
 class FakeArray
   include Enumerable
 
